@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Portifolio App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lable">The Cat in the Hap App</string>
+    <string name="cat">The Cat</string>
+    <string name="thing1">Thing 1</string>
+    <string name="thing2">Thing 2</string>
+    <string name="amajigger">ThinkAmajigger</string>
+    <string name="sally">Sally</string>
+    <string name="nick">Nick</string>
+    <string name="dr_seuss">Dr. Seuss</string>
+    <color name="orange">#F08C35</color>
+    <color name="red">#FF0000</color>
+    <color name="dark">#AAAAAA</color>
+    
+
+</resources>
